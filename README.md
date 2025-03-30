@@ -1,9 +1,3 @@
-Here’s the **updated README** for your **calculator** project with the format you want:  
-
----
-
-# 🧮 Calculator  
-
 Welcome to the **Calculator** project! This simple yet powerful calculator allows users to perform basic arithmetic operations with a **user-friendly interface** and **responsive design**.  
 
 ## 📋 Project Overview  
