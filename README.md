@@ -24,7 +24,7 @@ Follow these steps to get the project up and running locally.
 
 1. **Clone the repository**:  
    ```bash
-   git clone https://github.com/Tusharxhub/calculator-main.git
+   git clone https://github.com/Tushardevx01/calculator-main.git
    ```
 2. **Navigate into the project folder**:  
    ```bash
@@ -45,12 +45,12 @@ Use this calculator in your web projects by embedding it within your application
 
 ## 🤝 Contributing  
 
-Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Tusharxhub/calculator-main/issues).  
+Contributions, issues, and feature requests are welcome! Feel free to check out the [issues page](https://github.com/Tushardevx01/calculator-main/issues).  
 
 ## 📧 Contact  
 
-🔗 [GitHub](https://github.com/Tusharxhub)  
-📸 [Instagram](https://www.instagram.com/tushardevx01/)  
+🔗 [GitHub](https://github.com/Tushardevx01)  
+📸 [Instagram](https://www.instagram.com/tushardevx01)  
 📧 [Email](mailto:t.k.d.dey2033929837@gmail.com)  
 
 ---
